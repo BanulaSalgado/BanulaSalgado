@@ -10,7 +10,7 @@
 
 
 
-- 🔭 At that movement I am doing BSc (Hons) in Information Technology Specialising in Cyber Security
+- 🔭 At that movement I am doing my BSc (Cyber Security)
 - 🌱 I’m currently learning React JS
 - 👯 open source contributor
 - 💬 Ask me about **React JS** **Node JS**
